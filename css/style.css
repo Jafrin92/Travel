@@ -978,6 +978,7 @@ span {
   padding: 20px 67px;
   border: none;
   border-radius: 15px;
+  cursor: pointer;
 }
 
 .msg_shape img {
