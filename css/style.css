@@ -969,7 +969,7 @@ span {
   transform: translateX(-50%);
 }
 
-.msg_wrapper button {
+.msg_wrapper .msg_btn {
   font-size: 30px;
   font-weight: 500;
   color: #ffffff;
@@ -977,8 +977,8 @@ span {
   background-color: #ff8000;
   padding: 20px 67px;
   border: none;
-  border-radius: 15px;
   cursor: pointer;
+  border-radius: 15px;
 }
 
 .msg_shape img {
